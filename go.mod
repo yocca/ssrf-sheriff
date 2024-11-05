@@ -6,7 +6,6 @@ require (
 	github.com/fogleman/gg v1.3.1-0.20210928143535-8febc0f526ad
 	github.com/golang/freetype v0.0.0-20170609003504-e2365dfdc4a0
 	github.com/gorilla/mux v1.8.1
-	github.com/teknogeek/ssrf-sheriff v0.0.0-20241031204715-02cd31d60970
 	go.uber.org/config v1.4.0
 	go.uber.org/fx v1.23.0
 	go.uber.org/zap v1.27.0
