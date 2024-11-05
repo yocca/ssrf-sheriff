@@ -1,4 +1,4 @@
-module ssrf-sheriff
+module github.com/yocca/ssrf-sheriff
 
 go 1.21.0
 

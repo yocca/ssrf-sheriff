@@ -1,8 +1,7 @@
 package main
 
 import (
-	"ssrf-sheriff/handler"
-
+	"github.com/yocca/ssrf-sheriff/handler"
 	"go.uber.org/fx"
 )
 

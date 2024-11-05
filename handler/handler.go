@@ -11,8 +11,8 @@ import (
 	"path/filepath"
 
 	"github.com/gorilla/mux"
-	"ssrf-sheriff/generators"
-	"ssrf-sheriff/httpserver"
+	"github.com/yocca/ssrf-sheriff/generators"
+	"github.com/yocca/ssrf-sheriff/httpserver"
 	"go.uber.org/config"
 	"go.uber.org/fx"
 	"go.uber.org/zap"
